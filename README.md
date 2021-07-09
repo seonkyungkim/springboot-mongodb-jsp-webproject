@@ -4,13 +4,13 @@ This project is using SpringBoot, MongoDB, JSP with Bootstrap in IntelliJ.
 
 ## I. Initial Settings for Springboot with JSP in IntelliJ
 ### 1. SpringBoot Initializer
-   > * sdk 1.8, java 8, war packaging, maven
-   > * Initial dependencies
-   >  - Lombok
-   >  - Spring web
-   >  - Springboot Data JPA
-   >  - MySQL driver
-   >  - Springboot Data MongoDB
+> * sdk 1.8, java 8, war packaging, maven
+> * Initial dependencies
+>     * Lombok
+>     * Spring web
+>     * Springboot Data JPA
+>     * MySQL driver
+>     * Springboot Data MongoDB
 
 ### 2. Create new directories for JSP views
 1. src/main/__webapp/WEB-INF/views__
@@ -52,7 +52,7 @@ This project is using SpringBoot, MongoDB, JSP with Bootstrap in IntelliJ.
 ### 1. Local Settings
 1. [MongoDB Community Server](https://www.mongodb.com/try/download/community/) : 4.4.6 version
 2. Root directories : `C:/mongodb/bin`, `C:/data/db`
-3. `mongodb.exe`: A server execution program.
+3. `mongod.exe`: A server execution program.
 4. `mongo.exe` : A shell program.
 ### 2. Create authorized accounts
 1. create `admin`(or `web`) acoount.

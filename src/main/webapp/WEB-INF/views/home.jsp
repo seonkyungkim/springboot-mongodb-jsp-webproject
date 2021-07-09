@@ -11,5 +11,4 @@
         <h2>Welcome, ${sessionScope.name}(${sessionScope.userid})!</h2>
     </c:if>
 </body>
-<%@ include file="include/footer.jsp"%>
 </html>
